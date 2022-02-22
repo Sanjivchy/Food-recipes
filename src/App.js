@@ -53,7 +53,7 @@ const getSearch = e => {
       />
      ))}
      </div>
-    
+      
    </div>
   );
 }
